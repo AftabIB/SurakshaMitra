@@ -22,8 +22,8 @@ https://github.com/KetanBhoye/SurakshaMitra/assets/77838645/e711782e-5a79-452b-9
 
 ## Website Screenshots
 
-https://github.com/AftabIB/SurakshaMitra/assets/122194015/42de8195-fd08-4786-95c6-bb63e8914cb6
+![Screenshot 2023-11-02 225003](https://github.com/AftabIB/SurakshaMitra/assets/122194015/2c6a41b3-ba8f-4748-9e08-daed8c04ac38)
 
-https://github.com/AftabIB/SurakshaMitra/assets/122194015/eedab797-754a-414d-8bd3-440d7b5d8420
+![Screenshot 2023-11-02 225003](https://github.com/AftabIB/SurakshaMitra/assets/122194015/42de8195-fd08-4786-95c6-bb63e8914cb6)
 
-https://github.com/AftabIB/SurakshaMitra/assets/122194015/2c6a41b3-ba8f-4748-9e08-daed8c04ac38
+![Screenshot 2023-11-02 225003](https://github.com/AftabIB/SurakshaMitra/assets/122194015/eedab797-754a-414d-8bd3-440d7b5d8420)
